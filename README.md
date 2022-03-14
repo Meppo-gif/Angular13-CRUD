@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+In this project we have created how we can add, update, delete and get products; how we can also implement degeneration and we can do filtering
+![screen project](https://user-images.githubusercontent.com/76797755/158254318-ce461d4e-9f1c-4baa-953d-5279da2640fd.PNG)
+
